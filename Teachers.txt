@@ -1,2 +1,3 @@
-﻿ID: 123 Name: Alim Class&Sec: 4C
-ID: 234 Name: Amit Class&Sec: 5c
+
+123, Alim Khan, 4th-C
+456, Sunil Kumar, 7th-B
